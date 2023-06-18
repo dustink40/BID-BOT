@@ -1,0 +1,2 @@
+# BID-BOT
+estimate assistant

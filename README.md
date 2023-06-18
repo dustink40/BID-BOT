@@ -1,2 +1,2 @@
 # BID-BOT
-estimate assistant
+An AI Bot to help make bids and estimates for construction jobs
